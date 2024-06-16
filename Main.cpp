@@ -51,7 +51,7 @@ switch(choice)
                 total_pasta=total_pasta+quant*250;
                 cout<<"\n\n\t\t"<<quant<<"pasta is the order";
             }
-            
+            //ok
             else cout<<"\n\tonly"<<qpasta-spasta<<"pasta remaining in hotel";
             break;
         
